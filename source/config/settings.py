@@ -18,7 +18,7 @@ QDRANT_PORT = 6333
 COLLECTION_NAME = "insurance_docs"
 
 # ===== Retriever =====
-TOP_K = 5
+TOP_K = 10
 SCORE_THRESHOLD = 0.3
 
 
@@ -30,3 +30,14 @@ RAW_DIR = Path(
         "/Users/kim-yein/workspace/raw_insurance_xml"
     )
 )
+
+
+ALLOWED_INSURANCE_TYPES = {
+    "상해보험",
+    "손해보험",
+    "연금보험",
+    "자동차보험",
+    "질병보험",
+    "책임보험",
+    "화재보험",
+}
