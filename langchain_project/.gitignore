@@ -63,6 +63,15 @@ qdrant_data/
 # =========================
 outputs/
 results/
+evaluation_results/
+
+# =========================
+# Debug / Test Files
+# =========================
+debug_qdrant.py
+**/test_search.py
+**/qdrant_failed.py
+qdrant_storage/
 
 # =========================
 # Secrets
