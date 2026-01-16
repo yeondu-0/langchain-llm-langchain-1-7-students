@@ -2,6 +2,7 @@
 
 > Upstage Solar 모델 기반의 지능형 보험 상담 시스템  
 > RAG(Retrieval-Augmented Generation) 기술을 활용한 보험 약관 질의응답 시스템
+<img width="2858" height="1538" alt="image" src="https://github.com/user-attachments/assets/410d20ae-c22f-4832-8b06-8904dfc032b9" />
 
 ## 📋 목차
 
